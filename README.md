@@ -2,7 +2,7 @@ Como rodar o código:
 
 ```python
 # 1. Iniciar venv
-python -m venv venv
+python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
 
